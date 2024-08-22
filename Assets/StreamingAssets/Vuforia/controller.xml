@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="controller" motionHint="static" trackingMode="car" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="controllers_assembly" assemblyId="31eecec03d6240c086b579f1e59fbffa">
+<Part name="controller" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0248843 -0.151195 1.0473" rotation="AD: 1 0.00196851 -0.0177402 192.662" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0 -1.13153e-07 1.29432" rotation="AD: 1 0 0 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0 -1.73002e-07 1.97891" rotation="AD: 1 0 0 180" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

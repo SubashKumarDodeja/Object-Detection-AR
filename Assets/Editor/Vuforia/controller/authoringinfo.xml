@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.22.5">
+<ModelTarget name="controller" targetId="73bde0d5595b44f9b2be02a711317752" version="14.0" toolVersion="10.22.5" bbox="-0.352704 -0.600449 -0.495218 0.310327 0.243896 0.286079" previewImage="73bde0d5595b44f9b2be02a711317752_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="controllers_assembly" assemblyId="31eecec03d6240c086b579f1e59fbffa">
+<Part name="controller" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0248843 -0.151195 1.0473" rotation="AD: 1 0.00196851 -0.0177402 192.662" image="controller_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0 -1.13153e-07 1.29432" rotation="AD: 1 0 0 180" image="controller_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0 -1.73002e-07 1.97891" rotation="AD: 1 0 0 180" image="controller_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

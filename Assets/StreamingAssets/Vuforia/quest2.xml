@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="quest2" motionHint="static" trackingMode="car" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="quest2s_assembly" assemblyId="ce99a0c26c214721931217d0f669bad5">
+<Part name="quest2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.170167 0.273182 2.95468" rotation="AD: 0.954077 0.823134 0.494111 170.966" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.374524 0.200269 3.43481" rotation="AD: 0.999031 1.09448 -0.0623539 213.85" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.510905 -0.104257 4.61941" rotation="AD: -0.59318 -1.29341 2.39953 92.7141" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.610608 -0.0176219 4.39044" rotation="AD: 0.976462 0.30676 2.87664 96.5418" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

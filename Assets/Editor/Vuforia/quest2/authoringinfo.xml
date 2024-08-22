@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.22.5">
+<ModelTarget name="quest2" targetId="e5d488bed1ca42efba2b600c8aef5f94" version="14.0" toolVersion="10.22.5" bbox="-0.728795 -0.409238 -2.142068 0.726212 1.175350 0.386609" previewImage="e5d488bed1ca42efba2b600c8aef5f94_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="quest2s_assembly" assemblyId="ce99a0c26c214721931217d0f669bad5">
+<Part name="quest2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.170167 0.273182 2.95468" rotation="AD: 0.954077 0.823134 0.494111 170.966" image="quest2_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.374524 0.200269 3.43481" rotation="AD: 0.999031 1.09448 -0.0623539 213.85" image="quest2_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.510905 -0.104257 4.61941" rotation="AD: -0.59318 -1.29341 2.39953 92.7141" image="quest2_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.610608 -0.0176219 4.39044" rotation="AD: 0.976462 0.30676 2.87664 96.5418" image="quest2_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
